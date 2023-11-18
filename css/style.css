@@ -230,6 +230,7 @@ body {
   height: 79px;
   background-color: rgba(255, 255, 255, 0.1);
   box-shadow: 0px 0px 39px rgba(0, 0, 0, 0.35);
+  -webkit-backdrop-filter: blur(15px);
   backdrop-filter: blur(15px);
 }
 .first-screen__title {
@@ -279,6 +280,7 @@ body {
   border: 2px solid #538d8f;
   background: rgba(255, 255, 255, 0.1);
   box-shadow: 0px 0px 84.2px 0px rgba(83, 141, 143, 0.35);
+  -webkit-backdrop-filter: blur(15px);
   backdrop-filter: blur(15px);
 }
 .first-screen__decor-img {
@@ -379,6 +381,7 @@ body {
   border-radius: 61px;
   background: rgba(255, 255, 255, 0.1);
   box-shadow: 0px 0px 39px 0px rgba(0, 0, 0, 0.15);
+  -webkit-backdrop-filter: blur(15px);
   backdrop-filter: blur(15px);
   padding: 34px 44px;
 }
@@ -534,6 +537,7 @@ body {
   border-radius: 61px;
   background: rgba(255, 255, 255, 0.1);
   box-shadow: 0px 0px 39px 0px rgba(0, 0, 0, 0.15);
+  -webkit-backdrop-filter: blur(15px);
   backdrop-filter: blur(15px);
 }
 .ratio__subtitle {
